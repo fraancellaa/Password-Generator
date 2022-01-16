@@ -6,6 +6,8 @@ Password Generator is an application that an employee can use to generate random
 
 # Screenshot / Usage
 
+<img width="866" alt="Screen Shot 2022-01-15 at 7 02 10 PM" src="https://user-images.githubusercontent.com/95050386/149642156-96cde0f4-c75c-4bcc-a829-aa612f98f40c.png">
+
 # Resources / Credits
 
 1. UM CANVAS - MODULE 3
